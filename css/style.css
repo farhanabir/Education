@@ -1,0 +1,717 @@
+/*fonts starts*/
+@font-face{
+	font-family: Dosis-Bold;
+	src:url(../fonts/Dosis-Bold.otf)
+}
+@font-face{
+	font-family: Dosis-Light;
+	src:url(../fonts/Dosis-Light.otf);
+}
+@font-face{
+	font-family: Dosis-Medium;
+	src:url(../fonts/Dosis-Medium.otf);
+}
+@font-face{
+	font-family: Dosis-Regular;
+	src:url(../fonts/Dosis-Regular.otf);
+}
+@font-face{
+	font-family: Dosis-SemiBold;
+	src:url(../fonts/Dosis-SemiBold.otf);
+}
+@font-face{
+	font-family: Lato-Bold;
+	src:url(../fonts/Lato-Bold.otf);
+}
+@font-face{
+	font-family: Lato-Light;
+	src:url(../fonts/Lato-Light.otf);
+}
+@font-face{
+	font-family: Lato-Regular;
+	src:url(../fonts/Lato-Regular.otf);
+}
+@font-face{
+	font-family: Lato-RegularItalic;
+	src:url(../fonts/Lato-RegularItalic.otf);
+}
+body{
+	font-family: Dosis-Regular;
+	background-image: url(../images/bg-image.png);
+	
+}
+/*fonts ends*/
+/*header starts*/
+header{
+	background-color: #ffd338;
+}
+.menu ul li a {
+    list-style: none;
+    font-weight: 700;
+	font-size: 18px;
+    color: white !important;
+	padding: 0 15px !important;
+	border-radius: 20px;
+	transition: .5s;
+}
+.menu ul li a:hover{
+	background-color: #f05c5c;
+	transition: .8s;
+}
+.custom-button{
+	border-radius: 20px;
+}
+.custom-button:hover{
+	background-color: #f05c5c;
+	transition: .8s;
+	color: #ffd338;
+}
+.custom-button::after{
+	display: none;
+}
+.icon {
+    color: white;
+    font-size: 18px;
+}
+.custom-button:focus{
+	box-shadow: none;
+}
+.custom-drop {
+    left: -276px;
+    min-width: 20rem;
+    margin: 0;
+    padding: 0;
+    top: 87%;
+    background: transparent;
+}
+.search{
+	display: inline;
+	width: 80%;
+	height: 35px;
+}
+.search-button:hover{
+	background-color: #f05c5c;
+	transition: .6s;
+	color: #ffd338;
+}
+.search-button{
+	color: white;
+	background-color:#ffd338;
+}
+.login-class h1{
+	font-size: 24px;
+}
+.login-class{
+	width: 26%;
+}
+.custom-content{
+	background-color: #ffd338;
+}
+.custom-header{
+	border: none;
+}
+.custom-body h1{
+   	font-size: 30px;
+    color: white;
+}
+.custom-login{
+	font-size: 22px;
+	background: transparent;
+}
+.custom-login:hover{
+	background-color: #f05c5c;
+	transition: .6s;
+	color: #ffd338;
+}
+.email:focus , .password:focus{
+	box-shadow: 0 0 0 0.2rem rgba(240, 92, 92, .8);
+	transition: .8s;
+}
+.sign-up p{
+	font-size: 20px;
+}
+/*header ends*/
+/*banner starts*/
+.cloud{
+	background-image: url(../images/bg6.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.land {
+    margin-top: 360px;
+    margin-bottom: 338px;
+}
+.land h1{
+	font-family: Dosis-Light;
+	font-weight: 700; 
+	font-size: 48px;
+	color: lavenderblush;	
+	letter-spacing: 5px;
+}
+.scroll p{
+	font-family: Lato-Regular;
+	font-size: 18px;
+	color: #bbbbbb;
+	margin-bottom: 0;
+}
+.desire h1{
+	font-family: Dosis-Light;
+	font-weight: 700; 
+	font-size: 30px;
+	color: #333333;
+	margin-top: 100px;
+	letter-spacing: 4px;
+	margin-bottom: 30px;
+}
+.desire hr{
+	border: none;
+	border-bottom: 7px dashed white;
+	width: 245px;
+}
+.discovery {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.giraffe h1{
+	font-family: Dosis-Light;
+	font-weight: 700; 
+	font-size: 24px;
+	letter-spacing: 3px;
+}
+.giraffe hr{
+	border:none;
+	border: 2px solid #dddddd;
+	width: 170px;
+	margin-left: 0;
+}
+.giraffe p{
+    font-family: lato-Light;
+    font-size: 14px;
+    line-height: 28px;
+}
+.giraffe-img{
+	margin-top: 12px;
+}
+.giraffe-img img {
+    border-radius: 28px;
+}
+/*banner ends*/
+/*blue starts*/
+.blue{
+	background-image: url(../images/blue.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;	
+}
+.circle{
+    margin-top: 50px;
+    padding-bottom: 110px;
+}
+.title h1{
+	font-family: Dosis-Regular;
+	font-weight: 700;
+	font-size: 24px;
+	color: white;
+	letter-spacing: 4px;
+	margin-top: 20px;
+	line-height: 30px;
+}
+#ih1{
+	padding-left: 22px;
+}
+/*blue ends*/
+/*courses starts*/
+.border{
+	border: none !important;
+}
+.b {
+    height: 67px;
+    border-right: 7px dashed white;
+    position: absolute;
+    top: -20px;
+    right: -56px;
+}
+#ihr{
+	width: 862px;
+	padding-top: 40px;
+}
+.all-card {
+    margin: 60px 0;
+}
+.single-card{
+	border-radius: 25px;
+	background-color: white;
+}
+.custom-card{
+    border-radius: 25px;
+}
+.custom-header1{
+	background-color: #1ec0ff;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.custom-header2{
+	background-color: #56d47e;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.custom-header3{
+	background-color: #f05c5c;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.custom-header4{
+	background-color: #ffd338;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.custom-header1 p , .custom-header2 p , .custom-header3 p , .custom-header4 p{
+	font-family: Lato-Regular;
+	font-weight: 400;
+	font-size: 12px;
+	color: white;
+	padding: 10px;
+	margin-bottom: 0;
+}
+.custom-header1 img , .custom-header2 img , .custom-header3 img , .custom-header4 img{
+	position: absolute;
+    top: 9px;
+    right: 28px;
+}
+.custom-image img{
+	width: 100%;
+}
+.money img {
+    margin-top: -30px;
+    width: 22%;
+}
+.custom-body{
+	padding-top: 0;
+	padding-bottom: 0;
+}
+#card2-h1{
+	color: #56d47e;
+	margin-top: -6px;
+}
+.custom-title h1{
+	font-family: Dosis-SemiBold;
+	font-size: 24px;
+	color: #1ec0ff;
+	margin-top: -6px;
+	margin-bottom: 15px;
+	letter-spacing: 2px;
+}
+.custom-title p {
+    font-family: Lato-Light;
+    font-size: 14px;
+    line-height: 25px;
+}
+.custom-footer {
+	background-color: white;
+	border: none;
+    border-bottom-left-radius: 25px !important;
+    border-bottom-right-radius: 25px !important;
+    padding: 0;
+}
+.p1 {
+    border-right: 1px solid #dddddd;
+}
+.p1 p{
+	font-family: Dosis-Regular;
+	font-size: 16px;
+	margin-left: 10px;
+}
+.p2 p{
+	font-family: Dosis-Regular;
+	font-size: 16px;
+	margin-right: 10px;
+}
+.custom-btn {
+    width: 100%;
+    background-color: #56d47e;
+    color: white;
+    padding: 0;
+    margin: 0;
+    border-radius: 25px;
+}
+.custom-btn:hover{
+	color: white;
+	transition: .6s;
+	background-color: #1ec0ff;;
+}
+.custom-btn h1 {
+    line-height: 39px;
+    margin-bottom: 20px;
+    font-size: 83px;
+}
+.custom-alert {
+    width: 50%;
+    margin: auto;
+    border-radius: 40px;
+    font-size: 33px;
+    background-color: gainsboro;
+    color: black;
+    top: 0%;
+}
+.courses {
+    margin-bottom: 100px;
+}
+/*course ends*/
+/*event starts*/
+.event{
+	background-image: url(../images/event.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#event-hr{
+	width: 190px;
+}
+.photo{
+	margin-top: 90px;
+	text-align: center;
+}
+.figure img {
+    border-radius: 22px;
+    text-align: center;
+}
+.view {
+    margin-top: 0px;
+    margin-bottom: 80px;
+}
+/*event ends*/
+/*twitter starts*/
+.twitter {
+    margin: 90px 0;
+}
+.t-icon {
+    font-size: 60px;
+    color: #1ec0ff;
+}
+.t-icon a{
+text-decoration: none	
+}
+.t-icon p:hover{
+	color: black;
+	transition: .6s;
+}
+.t-icon p{
+	font-family: Lato-Light;
+	font-size: 16px;
+    color: #1ec0ff;	
+}
+.quote p {
+    font-family: Lato-Light;
+    font-size: 16px;
+    color: black;
+    word-spacing: 5px;
+    line-height: 30px;
+    width: 63%;
+    margin: auto;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+#quote-p{
+	font-family: Lato-Light;
+	font-size: 16px;
+    color: #1ec0ff;	
+}
+.profile {
+    margin-top: 50px;
+}
+.single-profile {
+    margin-bottom: 25px;
+}
+.pro-image:hover img{
+	opacity: .5;
+	transition: .7s;
+	color: black;
+	cursor: pointer;
+}
+.pro-image img{
+	border-radius: 20px;
+}
+.pro-details {
+    margin-top: 10px;
+}
+.pro-details h1{
+	font-family: Dosis-Light;
+ 	font-weight: 700;
+	font-size: 24px;
+    color: #1ec0ff;
+    letter-spacing: 3px;	
+}
+.pro-details h6{
+	font-family: Lato-Regular;
+	font-weight: 700;
+	font-size: 16px;
+}
+.pro-details p{
+    font-family: Lato-light;
+    font-size: 16px;
+    line-height: 30px;
+}
+.pro-details ul li a{
+	font-size: 18px;
+    padding-right: 7px;
+}
+.pro-details ul li a:hover i{
+	transform: translateY(-5px);
+    transition: .3s;
+}
+.pro-details h3{
+	font-family: Dosis-Light;
+	font-size: 18px;
+	font-weight: 700;
+	text-decoration: underline;
+	letter-spacing: 3px;	
+}
+#profile {
+    margin-top: 10px;
+}
+/*twitter ends*/
+/*did starts*/
+.did{
+	background-image: url(../images/did.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: left;
+}
+.digit {
+    padding-bottom: 100px;
+}
+.count{
+	margin-top: 50px;
+}
+.count h1{
+	font-family: Dosis-Light;
+	font-size: 60px;
+	margin-bottom: 0;
+}
+.shadows img {
+    margin-top: -25px;
+}
+.count h2{
+	font-family: Dosis-Regular;
+	font-size: 24px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	margin-top: 20px;
+}
+/*did ends*/
+/*recent starts*/
+.celebretaion {
+    margin-top: 100px;
+}
+.tag {
+    margin-bottom: 50px;
+}
+.tag img{
+	width: 100px;
+}
+.detail {
+    margin-top: 15px;
+}
+.detail h1{
+	font-family: Dosis-Light;
+	font-weight: 700;
+	font-size: 24px;
+	color: #333333;
+}
+.detail h5{
+	font-family: Dosis-Light;
+	font-size: 14px;
+	color: #333333;
+	letter-spacing: 2px;
+}
+.detail h6{
+	font-family: Dosis-Light;
+	font-size: 16px;
+	color: #fb9130;
+}
+.detail p{
+	font-family: Lato-Light;
+	font-size: 14px;
+	color: #4c4c4c;
+	margin-bottom: 5px;
+}
+.detail i{
+	font-size: 14px;
+	color: #1ec0ff;
+}
+.detail a{
+    font-size: 14px;
+    color: #1ec0ff;
+	text-decoration: none;
+}
+.detail hr {
+    width: 81px;
+    margin-left: 0px;
+    margin-top: 0;
+}
+.news-image {
+    margin-top: 35px;
+    margin-bottom: 25px;
+}
+.news-image img {
+    width: 100%;
+    border-radius: 25px;
+}
+.news-info h1 {
+    font-family: Dosis-Light;
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 35px;
+    color: #333333;
+    margin-top: 43px;
+    margin-bottom: 14px;
+}
+.news-info h6{
+	font-family: Dosis-Light;
+    font-size: 14px;
+    margin-top: 12px;
+}
+.news-info p{
+	font-family: Lato-Light;
+	font-size: 14px;
+	color: #4c4c4c;
+}
+#news-hr {
+    border: none;
+    margin-left: -20px;
+    border-bottom: 7px dotted;
+}
+/*recent ends*/
+.blank {
+    background-image: url(../images/blankbg.jpg);
+    height: 200px;
+    background-repeat: no-repeat;
+}
+/*contact starts*/
+.contact {
+    background-color: white;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+.logo {
+    margin-left: 10px;
+}
+.logo img {
+    width: 185px;
+}
+.logo-detail a {
+    text-decoration: none;
+    color: #1ec0ff;
+}
+.logo-detail h1 {
+    font-family: Lato-light;
+    font-size: 14px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    line-height: 25px;
+}
+.logo-detail p{
+	font-family: Lato-light;
+	font-size: 14px;
+	margin-bottom: 15px;
+}
+.instagram {
+    margin-top: 20px;
+}
+.instagram h1{
+	font-family: Dosis-Regular;
+	font-weight: 700;
+	font-size: 24px;
+	color: #ffc852;
+	letter-spacing: 4px;
+}
+.instagram hr{
+	border: none;
+	border-bottom: 5px dotted;
+    border-bottom-color: #ffc852;
+    width: 180px;
+    margin-top: 15px;
+}
+.images-1{
+	margin-top: 20px;
+}
+.images-2{
+	margin-top: 20px;
+}
+.all-contacts {
+    margin-top: 35px;
+}
+.contact-icon {
+    text-align: center;
+}
+.contact-info p{
+	font-family: Lato-light;
+	font-size: 14px;
+}
+.letter-info p{
+	font-family: Lato-light;
+	font-size: 14px;
+	margin-top: 15px;
+	padding-bottom: 11px;
+}
+.custom-form {
+    font-size: 17px;
+}
+.six-icon {
+    margin-top: 9px;
+}
+.six-icon ul li a {
+    margin-right: 5px;
+    text-decoration: none;
+}
+.six-icon ul li a i {
+    font-size: 18px;
+}
+.six-icon ul li a:hover i {
+	transform: translateY(-5px);
+    transition: .3s;
+}
+/*contact ends*/
+/*footer starts*/
+footer{
+	background-color: #ffd338;
+}
+.foot{
+padding-top: 15px;
+padding-bottom: 20px;
+}
+.foot {
+    padding-top: 35px;
+    padding-bottom: 14px;
+}
+.foot ul li {
+    padding-right: 15px;
+}
+.foot ul li a{
+	font-family: Dosis-Regular;
+	font-size: 18px;
+	color: white;
+	text-decoration: none;
+}
+.copy{
+    padding-top: 40px;
+    padding-bottom: 14px;
+}
+.copy h1{
+	font-family: Lato-Regular;
+	font-size: 14px;
+	color: white;
+	letter-spacing: 2px;
+}
+.foot ul li a:hover{
+	transition: .6s;
+	color: #f05c5c;
+}
+.foot ul span{
+color: white;
+}
+/*footer ends*/
+
+
+
+

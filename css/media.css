@@ -1,0 +1,1013 @@
+@media (max-width: 575.98px)
+{
+/*header starts*/
+.logo-img{
+	width: 180px;
+}
+.menu ul li a{
+	font-size: 17px;
+	padding-bottom: 5px;
+}
+.menu ul li:nth-child(1){
+	padding-top: 15px !important;
+}
+.custom-drop {
+    left: 45px;
+    top: 11%;
+    min-width: 0;
+}
+.custom-modal{
+	top: 4px;
+}
+.custom-nav{
+	display: inline;
+}
+.search {
+    height: 30px;
+    width: 71%;
+    font-size: 15px;
+}
+.search-button {
+    width: 58px;
+}
+.custom-body h1 {
+    font-size: 21px;
+    margin-top: -8px;
+}
+.custom-login {
+    font-size: 18px;
+}
+.email , .password {
+    font-size: 16px;
+}
+.custom-header {
+    border: none;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+/*header ends*/
+/*banner starts*/
+.land h1 {
+    font-size: 30px;
+    letter-spacing: 0px;
+}
+.land {
+    margin-bottom: 133px;
+    margin-top: 200px;
+}
+.scroll p{
+    margin-left: 10px;
+}
+.desire h1 {
+    font-size: 24px;
+    margin-top: 65px;
+    letter-spacing: 0px;
+    margin-bottom: 10px;
+}
+.desire hr {
+    width: 160px;
+}
+.giraffe h1 {
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.giraffe hr{
+	margin: auto;
+	width: 130px
+}
+.giraffe img {
+    width: 130px;
+}
+.giraffe-img {
+    margin-top: 25px;
+}
+.discovery {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.giraffe p{
+	line-height: 25px;
+}
+/*banner ends*/
+/*blue starts*/
+.title h1 {
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-top: 12px;
+    line-height: 25px;
+}
+.single{
+	margin-bottom: 35px;
+}
+.single img{
+	width: 50%;
+}
+.circle{
+	margin-top: 25px;
+	padding-bottom: 20px;
+}
+/*blue ends*/
+/*course start*/
+#ihr {
+    width: 200px;
+    padding-top: 10px;
+}
+.b {
+    height: 50px;
+    top: -4px;
+    right: 126px;
+}
+.desire h1 {
+    font-size: 20px;
+    margin-top: 40px;
+    letter-spacing: 0px;
+    margin-bottom: 11px;
+}
+.all-card {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.custom-alert {
+    width: 100%;
+    font-size: 22px;
+    top: -2%;
+}
+.courses {
+    margin-bottom: 50px;
+}
+.money img{
+	width: 18%;
+    top: 163px;
+}
+/*course ends*/
+/*event starts*/
+.figure a{
+	text-decoration: none;
+	list-style: none;
+}
+.figure h1 {
+	font-family: Lato-Bold;
+    font-size: 18px;
+    color: darkgreen;
+}
+.figure h1:hover {
+    color: white;
+    transition: .2s;
+}
+.see h1{
+	font-family: Lato-Bold;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 40px;
+}
+.photo{
+	margin-top: 10px;
+}
+.view {
+    margin-top: 10px;
+    margin-bottom: 35px;
+}
+.view img {
+    width: 30%;
+}
+/*event ends*/
+/*twitter starts*/
+.twitter {
+    margin: 30px 0;
+}
+.t-icon {
+    font-size: 40px;
+}
+.quote p {
+    word-spacing: 2px;
+    line-height: 28px;
+    width: 88%;
+    margin-bottom: 15px;
+    margin-top: 18px;
+}
+.pro-image img{
+	display: none;
+}
+.pro-details p {
+	text-align: center;
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 5px;
+}
+.pro-details {
+    margin-top: 15px;
+}
+.pro-details h1{
+	font-size: 23px;
+	text-align: center;
+}
+.pro-details h3 {
+    font-size: 16px;
+    margin-top: -10px;
+    text-align: center;
+}
+.pro-details h6 {
+    text-align: center;
+}
+.pro-details ul {
+    text-align: center;
+}
+.profile {
+    margin-top: 15px;
+}
+.single-profile {
+    margin-bottom: 10px;
+}
+/*twitter ends*/
+/*did starts*/
+.count {
+    margin-top: 10px;
+}
+.count h1 {
+    font-size: 32px;
+}
+.count h2 {
+    font-size: 18px;
+    letter-spacing: 0px;
+    margin-top: 0;
+}
+.shadows img {
+    width: 65%;
+}
+.digit {
+    padding-bottom: 25px;
+}
+.detail h1{
+	font-size: 20px;
+}
+#news-hr{
+	margin-left: -12px;
+	border-bottom: 5px dotted;
+}
+.news-info h1{
+	font-size: 23px;
+	margin-top: 0;
+}
+.news-image{
+	margin-top: 119px;
+}
+.news-info {
+    margin-top: 35px;
+}
+.detail {
+    margin-top: 12px;
+}
+/*did ends*/
+/*recent starts*/
+.recent {
+    margin-bottom: -60px;
+}
+.tag img {
+    width: 70px;
+}
+.tag{
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+.celebretaion {
+    margin-top: 10px;
+}
+.detail h1{
+	font-size: 19px;
+    letter-spacing: 2px;
+}
+#news-hr{
+	border-bottom: 5px dotted;
+	width: 200px;
+}
+.news-info h6{
+	margin-top: 10px;
+}
+.news-info h1{
+	font-size: 21px;
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.news-info p{
+	width: 80%;
+    margin: auto;
+}
+.news-image{
+	margin-top: 119px;
+}
+.news-info {
+    margin-top: 25px;
+}
+.detail {
+    margin-top: 12px;
+}
+.detail h5{
+	margin-top: 10px;
+}
+.detail p {
+	width: 86%;
+    margin: auto;
+}
+.detail h6{
+	margin-top: 12px;
+}
+.news-image img{
+	display: none;
+}
+.news-image {
+   margin: 0;
+}
+.detail hr{
+	margin: auto;
+}
+/*contact starts*/
+.contact {
+    padding-top: 60px;
+}
+.instagram {
+    margin-top: 35px;
+}
+/*contact starts*/
+.logo img {
+    width: 175px;
+}
+.instagram h1 {
+    font-size: 18px;
+}
+.letter-info p {
+    margin-top: 10px;
+    padding-bottom: 11px; 
+}
+.custom-form {
+    font-size: 13px;
+}
+.contact {
+    padding-bottom: 40px;
+    margin-top: -55px;
+}
+.all-contacts {
+    margin-top: 10px;
+}
+.foot ul span{
+display: none;
+	
+}
+/*contact ends*/
+/*footer starts*/
+.foot ul li{
+	padding: 0;
+}
+.foot ul li a{
+	font-size: 17px;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+/*header starts*/
+.menu ul li a{
+	font-size: 17px;
+	padding-bottom: 5px;
+}
+.menu ul li:nth-child(1){
+	padding-top: 15px !important;
+}
+.custom-drop {
+    left: 45px;
+    top: 9%;
+}
+.custom-nav{
+	display: inline;
+}
+.custom-modal{
+	top: 4px;
+}
+.search{
+	height: 30px;
+}
+.search-button {
+    width: 60px;
+}
+.custom-body h1 {
+    font-size: 28px;
+}
+.custom-login {
+    font-size: 20px;
+}
+.custom-header {
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+/*header ends*/
+/*banner starts*/
+.land h1 {
+    font-size: 34px;
+    letter-spacing: 3px;
+}
+.land {
+    margin-bottom: 150px;
+    margin-top: 200px;
+}
+.scroll p{
+    margin-left: 28px;
+    font-size: 17px;
+}
+.scroll img {
+    margin-left: 20px;
+}
+.desire h1 {
+    font-size: 25px;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    margin-bottom: 15px;
+}
+.desire hr {
+    width: 200px;
+}
+.giraffe h1 {
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+.giraffe hr{
+	margin: auto;
+}
+.giraffe img {
+    width: 140px;
+}
+.giraffe-img {
+    margin-top: 30px;
+}
+.discovery {
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+/*banner end*/
+/*blue starts*/
+.title h1 {
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-top: 15px;
+    line-height: 25px;
+}
+.single{
+	margin-bottom: 35px;
+}
+.single img{
+	width: 70%;
+}
+.circle{
+	margin-top: 30px;
+	padding-bottom: 30px;
+}
+/*blue ends*/
+/*courses starts*/
+#ihr {
+    width: 395px;
+    padding-top: 5px;
+}
+.single-card {
+    width: 70%;
+    margin: auto;
+}
+.custom-title h1 {
+    font-size: 22px;
+    margin-top: -6px;
+    margin-bottom: 12px;
+    letter-spacing: 1px;
+}
+.money img {
+    width: 14%;
+}
+#card2-h1 {
+    margin-top: -6px;
+}
+.custom-alert {
+    width: 100%;
+    font-size: 25px;
+    top: -2%;
+}
+.courses {
+    margin-bottom: 50px;
+}
+/*courses ends*/
+/*event starts*/
+.figure a{
+	text-decoration: none;
+	list-style: none;
+}
+.figure h1 {
+	font-family: Lato-Bold;
+    font-size: 21px;
+    color: darkgreen;
+}
+.figure h1:hover {
+    color: white;
+    transition: .2s;
+}
+.see h1{
+	font-family: Lato-Bold;
+    font-size: 23px;
+    color: black;
+    margin-bottom: 40px;
+}
+.photo{
+	margin-top: 15px;
+}
+.view {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.view img {
+    width: 30%;
+}
+/*event ends*/
+/*twitter starts*/
+.quote p {
+    line-height: 28px;
+    width: 89%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.t-icon {
+    font-size: 50px;
+}
+.twitter {
+    margin: 50px 0;
+}
+.pro-image img {
+    width: 80%;
+}
+.pro-details p {
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 5px;
+}
+.pro-details {
+    margin-top: 35px;
+}
+.pro-details h1{
+	font-size: 23px;
+}
+.pro-details h3 {
+    font-size: 16px;
+    margin-top: -10px;
+}
+/*did starts*/
+.count {
+    margin-top: 32px;
+}
+.count h1 {
+    font-size: 42px;
+}
+.count h2 {
+    font-size: 19px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+.shadows img {
+    width: 50%;
+}
+.digit {
+    padding-bottom: 60px;
+}
+/*did ends*/
+/*recent starts*/
+.recent {
+    margin-bottom: 0px;
+}
+.tag img {
+    width: 75px;
+}
+.tag{
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.celebretaion {
+    margin-top: 50px;
+}
+.detail h1{
+	font-size: 20px;
+}
+#news-hr{
+	border-bottom: 5px dotted;
+	width: 260px;
+}
+.news-info h6{
+	margin-top: 10px;
+}
+.news-info h1{
+	font-size: 23px;
+	margin-top: 0;
+}
+.news-info p{
+	width: 80%;
+    margin: auto;
+}
+.news-image{
+	margin-top: 119px;
+}
+.news-info {
+    margin-top: 30px;
+}
+.detail {
+    margin-top: 12px;
+}
+.detail h5{
+	margin-top: 10px;
+}
+.detail p {
+	width: 86%;
+    margin: auto;
+}
+.detail h6{
+	margin-top: 12px;
+}
+.news-image img{
+	display: none;
+}
+.news-image {
+   margin: 0;
+}
+.detail hr{
+margin: auto;
+}
+/*recent ends*/
+/*blank starts*/
+.blank{
+    height: 142px;
+}
+/*contact starts*/
+.contact {
+    padding-top: 60px;
+}
+.instagram {
+    margin-top: 40px;
+}
+.instagram h1 {
+   	font-size: 19px;
+}
+.contact {
+    padding-bottom: 45px;
+}
+.foot ul li{
+	padding: 0;
+}
+.foot ul li a{
+	font-size: 17px;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+/*header starts*/
+.custom-drop {
+    left: 45px;
+    top: 9%;
+}
+.custom-nav{
+	display: inline;
+}
+.menu ul li:nth-child(1){
+	padding-top: 15px !important;
+}
+/*header endss*/
+/*banner starts*/
+.land {
+    margin-bottom: 190px;
+    margin-top: 285px;
+}
+.land h1{
+	font-size: 42px;
+}
+.desire h1 {
+    font-size: 28px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.giraffe h1{
+	font-size: 22px;
+}
+.giraffe hr{
+	margin-bottom: 10px;
+}
+.giraffe img {
+    width: 160px;
+}
+.giraffe p{
+	margin-bottom: 8px;
+}
+.giraffe-img{
+	margin-top: 90px;
+}
+/*banner ends*/
+/*blue starts*/
+.title h1 {
+    font-size: 22px;
+    letter-spacing: 2px;
+    margin-top: 18px;
+    line-height: 30px;
+}
+.single img{
+	width: 85%;
+}
+.circle{
+	margin-top: 40px;
+	padding-bottom: 70px;
+}
+.discovery {
+    margin-top: 45px;
+    margin-bottom: 70px;
+}
+/*blue ends*/
+/*course starts*/
+#ihr {
+    width: 288px;
+    padding-top: 40px;
+}
+.b {
+    right: -82px;
+}
+.custom-title h1 {
+    font-size: 23px;
+    margin-top: -6px;
+    margin-bottom: 12px;
+    letter-spacing: 1px;
+}
+.money img {
+    width: 19%;
+}
+#card2-h1{
+	margin-top: -6px;
+}
+.custom-alert {
+    width: 89%;
+    font-size: 28px;}
+#b1{
+    right: -124px;
+}
+#b2{
+	right: -43px;
+}
+#b3{
+	top: -89px;
+    right: 23px;
+}
+#b4{
+    top: -40px;
+    right: 80px;
+}
+.all-card {
+    margin-left: 110px;
+}
+.courses {
+    margin-bottom: 70px;
+}
+/*courses ends*/
+/*event starts*/
+.photo {
+    margin-top: 45px;
+}
+.view {
+    margin-top: -10px;
+    margin-bottom: 70px;
+}
+.view img {
+    width: 28%;
+}
+.figure img {
+    width: 95%;
+}
+/*event ends*/
+/*twitter starts*/
+.twitter {
+    margin: 60px 0;
+}
+.quote p {
+    line-height: 28px;
+    width: 68%;
+    margin-bottom: 0px;
+    margin-top: 18px;
+}
+.t-icon {
+    font-size: 55px;
+}
+.pro-image img {
+    width: 93%;
+    margin-top: 33px;
+}
+.pro-details p {
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 5px;
+}
+.pro-details {
+    margin-top: 0;
+}
+.pro-details h3 {
+    font-size: 17px;
+    margin-top: -10px;
+}
+.pro-details ul{
+	text-align: center;
+}
+/*did starts*/
+.count {
+    margin-top: 40px;
+}
+.count h1{
+	font-size: 50px;
+}
+.count h2 {
+    font-size: 20px;
+    letter-spacing: 0px;
+    margin-top: 15px;
+}
+.shadows img {
+    width: 95%;
+}
+.digit {
+    padding-bottom: 75px;
+}
+/*did ends*/
+.blank {
+    height: 180px;
+}
+
+/*recent starts*/
+.celebretaion {
+    margin-top: 90px;
+}
+.tag img {
+    width: 70px;
+    margin-bottom: 10px;
+}
+.tag {
+    margin-bottom: 35px;
+}
+.detail h1{
+	font-size: 21px;
+}
+#news-hr{
+	margin-left: -12px;
+	border-bottom: 5px dotted;
+}
+.news-info h1{
+	font-size: 23px;
+	margin-top: 0;
+}
+.news-image{
+	margin-top: 119px;
+}
+.news-info {
+    margin-top: 35px;
+}
+.detail {
+    margin-top: 12px;
+}
+/*contact starts*/
+.instagram h1 {
+    font-size: 21px;
+    margin-top: 10px;
+}
+.contact{
+	padding-top: 90px;
+}
+.image1 img {
+    width: 75%;
+}
+.images-1 {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.images-2 {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.all-contacts {
+    margin-top: 25px;
+}
+.contact-info p {
+    margin-bottom: 8px;
+}
+.contact {
+    padding-top: 30px;
+}
+.custom-form {
+    font-size: 14px;
+}
+.six-icon{
+	margin-top: 0;
+}
+.contact {
+    padding-bottom: 60px;
+}
+/*contact ends*/
+/*footer starts*/
+.foot ul li {
+     padding-right: 0;
+}
+.foot ul li a{
+	font-size: 16px;
+}
+.foot {
+    padding-top: 30px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+/*banner start*/
+.giraffe img {
+    width: 190px;
+}
+.giraffe-img {
+    margin-top: 50px;
+}
+.giraffe p{
+    font-size: 16px;
+}
+/*banner ends*/
+/*coursestarts*/
+#ihr {
+    width: 729px;
+    margin-left: 96px;
+}
+.b{
+	right: -39px;
+}
+.custom-body {
+    padding-left: 0;
+    padding-right: 0;
+}
+.custom-title p {
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.custom-title h1{
+	letter-spacing: 1px;
+}
+.custom-alert {
+    top: 0%;
+}
+/*courses ends*/
+/*photo starts*/
+.view img {
+    width: 25%;
+}
+/*photo ends*/
+/*twitter starts*/
+.pro-image img {
+    border-radius: 20px;
+    width: 95%;
+}
+.pro-details p {
+    font-size: 15px;
+}
+.pro-details {
+    margin-top: 4px;
+}
+/*twitter ends*/
+/*recent starts*/
+.news-info h1{
+	margin-top: 32px;
+}
+.news-image img{
+	margin-top: 17px;
+}
+.instagram h1 {
+    font-size: 22px;
+}
+.contact{
+	padding-top: 60px;
+}
+.image1 img {
+    width: 90%;
+}
+.images-1 {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.images-2 {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.contact {
+    padding-bottom: 80px;
+}
+.photo {
+    margin-top: 55px;
+}
+.twitter {
+    margin: 75px 0;
+}
+}
+@media (min-width: 1200px)
+{
+.giraffe p{
+    font-size: 16px;
+}
+/*blue ends*/
+/*course starts*/
+.photo {
+    margin-bottom: -15px;
+}
+/*course ends*/
+}
